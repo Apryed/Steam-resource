@@ -1,4 +1,4 @@
-### What is this?
+# What is this?
 Steam resources is a folder where Steam Skin is located. The original one got too many useless spaces, new lines and tabbing.
 This repository just get rid of those, making it clearer to the eye.
 
@@ -11,7 +11,7 @@ Well, since I am the only one working on this for free, there is no fixed date. 
 ### Is it going to be free for all?
 Sure. Unless Valve lawyers sue me, which they can't, since editting Steam Skin is free and detailed in their [Valve Developer Center website](https://developer.valvesoftware.com/wiki/Steam_Skins).
 
-## Is this the only way I can get Steam Skins?
+# Is this the only way I can get Steam Skins?
 Of course not. Check the following sites:
 [GameBanana](https://gamebanana.com/guis/games/6)
 [SteamSkins](http://steamskins.org/)
@@ -21,7 +21,7 @@ Of course not. Check the following sites:
 Mine is just unmoddified Steam Resource ( Just better optimize and clear ).
 For people that want either to touch it by themself, without external programs or for people that just want to use the default steam skin, but using less space.
 
-### Ok, you got me. What do I need to do in order to use this?
+# Ok, you got me. What do I need to do in order to use this?
 Just download the resource folder and place it in your Steam folder ( Yes, you will need to overwrite your files ).
 If you want to modify it, place it inside a folder, inside the Skins folder.
 Ex: ..\Steam\Skins\YourSkinName\resource
