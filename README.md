@@ -14,7 +14,9 @@ Sure. Unless Valve lawyers sue me, which they can't, since editting Steam Skin i
 # Is this the only way I can get Steam Skins?
 Of course not. Check the following sites:
 [GameBanana](https://gamebanana.com/guis/games/6)
+
 [SteamSkins](http://steamskins.org/)
+
 [SteamCustomizer](https://steamcustomizer.com/)
 
 ## So, what's the difference between you and them?
