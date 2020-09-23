@@ -54,7 +54,7 @@
 		BlockLink { style="inviteLinkStyle" }
 	}
 	colors { focus4="50 64 84 255" }
-	styles { 
+	styles {
 		//avatar view
 		CFriendPanel:selected {
 			render_bg {}
@@ -143,7 +143,8 @@
 		place { control="AcceptLink,IgnoreLink,BlockLink" x=50 y=31 spacing=8 }
 		// this control is shown in the invite-to-game dialog in the overlay
 		place { control="InviteToGameButton" align=right y=4 padding-right=6 margin-right=20 }
-		place { control="ControlPanelLink" x=50 y=31 } place { control="SuggestedImage,SuggestedLabel" x=50 y=19 spacing=4 }
+		place { control="ControlPanelLink" x=50 y=31 }
+		place { control="SuggestedImage,SuggestedLabel" x=50 y=19 spacing=4 }
 		place { control="SuggestedInvite,SuggestedIgnore" x=50 y=31 spacing=8 }
 	}
 }

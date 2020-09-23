@@ -5,7 +5,7 @@
 	}
 	styles {
 		announcementtextpanel { bgcolor=AnnouncementBlue }
-		announcementtext { 
+		announcementtext {
 			font-size=16
 			textcolor=white
 		}

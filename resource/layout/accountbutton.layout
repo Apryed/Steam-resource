@@ -58,7 +58,7 @@
 		AccountDropDownStyleInGame {
 			render_bg { 1="image( x0, y0+10, x1, y1, graphics/dropdown_ingame )" }
 		}
-		AccountButtonStyle { 
+		AccountButtonStyle {
 			render_bg { 0="fill( x0, y0, x1, y1, dark_blue )" }
 		}
 		AccountButtonStyle:hover {
